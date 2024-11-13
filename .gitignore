@@ -1,0 +1,7 @@
+.vscode
+.DS_Store
+SDCARD/
+Screech/
+bin/
+dist/
+ScreechApp
